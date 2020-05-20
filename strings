@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StartPageTrip</string>
+    <string name="subtitle">Plan your trip, Choose your destination
+Pick the best place for your holiday</string>
+    <string name="title">Plan Your Trip</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="vektor_1">vektor_1</string>
+    <string name="circle_1">circle_1</string>
+    <string name="circle_2">circle_2</string>
+    <string name="polygon_1">polygon_1</string>
+    <string name="circle_3">circle_3</string>
+    <string name="circle_4">circle_4</string>
+    <string name="image_1">image_1</string>
+    <string name="ellipse_1">ellipse_1</string>
+</resources>
